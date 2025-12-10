@@ -1,0 +1,26 @@
+# Proxmox
+*.qcow2
+*.vmdk
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# Secrets
+*.key
+*.pem
+credentials.json
+
+# Temp
+/tmp/
+*.tmp
